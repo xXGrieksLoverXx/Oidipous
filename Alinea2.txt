@@ -1,0 +1,58 @@
+σύ οὐν φθονήσας μήτ᾽ ἀπ᾽ οἰωνῶν φάτιν
+
+    σύ: u (nom)
+    οὐν: dus
+    φθονήσας: nadat u misgund heeft (aor. part. act. m ev nom)
+    μήτ᾽ ... μήτ᾽: noch ... noch
+    ἀπ᾽ οἰωνῶν φάτιν: een uitspraak op grond van vogeltekens
+
+"Dus u, nadat u noch een uitspraak op grond van vogeltekens, "
+-----
+μήτ᾽ εἴ τιν᾽ ἄλλην μαντικῆς ἔχεις ὁδόν,
+
+    εἴ: als
+    τιν᾽: een of andere (v ev acc)
+    ἄλλην: andere (v ev acc)
+    μαντικῆς ὁδόν: vorm van waarzeggerskunst (v ev acc)
+    ἔχεις: jij hebt (prs. act. 2 ev)
+
+"noch, als u een of andere andere vorm van waarzeggerskunst heeft, misgund hebt, "
+-----
+ῥῦσαι σεαυτὸν καὶ πόλιν, ῥῦσαι δ᾽ ἐμέ,
+
+    ῥῦσαι: jij moet redden / red / weer af (aor. med. imper. ev)
+    σεαυτὸν: jezelf (m ev acc)
+    καὶ: en
+    πόλιν: de stad (v ev acc)
+    δ᾽: en
+    ἐμέ: mij (acc)
+
+"moet uzelf en de stad redden, en red mij, "
+-----
+ῥῦσαι δὲ πᾶν μίασμα τοῦ τεθνηκότος.
+
+    δὲ: en
+    πᾶν: de hele (o ev acc)
+    μίασμα: bezoedeling (o ev acc)
+    τοῦ τεθνηκότος: van / veroorzaakt door de dode (zelfst. perf. part. act. m ev gen) [perfectum, want heeft nog steeds invloed op de situatie nu] [duidt op de dode Laios]
+
+"en weer de hele bezoedeling veroorzaakt door de dode af. "
+-----
+ἐν σοὶ γὰρ ἐσμέν: ἄνδρα δ᾽ ὠφελεῖν ἀφ᾽ ὧν
+
+    ἐν σοὶ: in uw handen (dat)
+    γὰρ: want
+    ἐσμέν: wij zijn (prs. 1 mv)
+    ἄνδρα: man (o ev acc)
+    δ᾽: en
+    ὠφελεῖν: helpen (prs. act. inf.)
+
+"Want wij zijn in uw handen: en dat de man helpt [AcI] "
+-----
+ἔχοι τε καὶ δύναιτο, κάλλιστος πόνων.
+
+    ἀφ᾽ ὧν ἔχοι τε καὶ δύναιτο: met gebruikmaking van alles wat hij heeft en kan
+    κάλλιστος: mooiste (m mv nom)
+    πόνων: van de inspanningen (m mv gen)
+
+"met gebruikmaking van alles wat hij heeft en kan, is [ellips] de mooiste van de inspanningen. "

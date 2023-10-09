@@ -1,0 +1,129 @@
+λεληθέναι σε φημὶ σὺν τοῖς φιλτάτοις
+
+    λεληθέναι: ontgaan (perf. inf. act.)
+    σε: u
+    φημὶ: ik zeg (prs. act. 1 ev)
+    σὺν + dat: met
+    τοῖς φιλτάτοις: uw meest dierbaren (zelfst. superl. m mv gen)
+
+"Ik zeg dat het u ontgaat, "
+-----
+αἴσχισθ᾽ ὁμιλοῦντ᾽, οὐδ᾽ ὁρᾶν ἵν᾽ εἶ κακοῦ.
+
+    αἴσχισθ᾽: zeer schandelijk
+    ὁμιλοῦντ᾽ + dat: omgaand met (prs. ptc. act. m ev acc)
+    οὐδ᾽: en niet
+    ὁρᾶν: zien (prs. inf. act.)
+    ἵν᾽ εἶ κακοῦ: in welke staat van rampspoed u verkeert
+
+"terwijl u zeer schandelijk omdaat met uw meest dierbaren, en niet ziet in welke staat van rampspoed u verkeert. "
+-----
+ἦ καὶ γεγηθὼς ταῦτ᾽ ἀεὶ λέξειν δοκεῖς;
+
+    ἦ καὶ: werkelijk
+    γεγηθὼς: ongestraft
+    ταῦτ᾽: die dingen (o mv acc)
+    ἀεὶ: steeds
+    λέξειν: te zullen zeggen (fut. inf. act.)
+    δοκεῖς: jij meent (prs. act. 2 ev)
+
+"Meen jij werkelijk die dingen steeds ongestraft te zullen zeggen? "
+-----
+εἴπερ τί γ᾽ ἐστὶ τῆς ἀληθείας σθένος.
+
+    εἴπερ: als tenminste
+    τί (= τι): een of andere (o ev nom) [congrueert met σθένος]
+    σθένος ἐστὶ + gen: er schuilt kracht in
+    τῆς ἀληθείας: de waarheid (v ev gen)
+
+"Als er tenminste een of andere kracht in de waarheid schuilt. "
+-----
+ἀλλ᾽ ἔστι, πλὴν σοί: σοὶ δὲ τοῦτ᾽ οὐκ ἔστ᾽ ἐπεὶ
+
+    ἀλλ᾽: maar
+    ἔστι: het is (prs. act. 3 ev)
+    πλὴν: behalve
+    σοί: voor jou (dat)
+    δὲ: en
+    τοῦτ᾽: die (o ev acc)
+    οὐκ: niet
+    ἐπεὶ: omdat
+
+"Maar het [die kracht] is (er), behalve voor jou: en voor jou is die (er) niet omdat "
+-----
+τυφλὸς τά τ᾽ ὦτα τόν τε νοῦν τά τ᾽ ὄμματ᾽ εἶ.
+
+    τυφλὸς: blind
+    τ᾽: en
+    τά ὦτα: wat betreft je oren (o mv acc) [Accusativus van betrekking]
+    τόν νοῦν: wat betreft je geest (m mv acc)
+    τά ὄμματ᾽: wat betreft je ogen (o mv acc)
+    εἶ: jij bent (prs. act. 2 ev)
+
+"jij blind bent in je oren en in je geest en in je ogen. "
+-----
+σὺ δ᾽ ἄθλιός γε ταῦτ᾽ ὀνειδίζων, ἃ σοὶ
+
+    σὺ: u
+    δ᾽: en
+    ἄθλιός: ongelukkig (m ev nom)
+    ταῦτ᾽: die dingen (o mv acc)
+    ὀνειδίζων: verwijtend (prs. ptc. act. m ev nom)
+    ἃ: die (o mv acc)
+    σοὶ: aan u (dat)
+
+"U bent ongelukkig, dingen verwijtend die "
+-----
+οὐδεὶς ὃς οὐχὶ τῶνδ᾽ ὀνειδιεῖ τάχα.
+
+    οὐδεὶς ὃς οὐχὶ: iedereen (m ev nom)
+    τῶνδ᾽: van hen (o mv gen)
+    ὀνειδιεῖ: hij verwijt (prs. act. 3 ev)
+    τάχα: snel (bijw.)
+
+"iedereen van hen snel aan u verwijt. "
+-----
+μιᾶς τρέφει πρὸς νυκτός, ὥστε μήτ᾽ ἐμὲ
+
+    μιᾶς τρέφει πρὸς νυκτός: jij leeft in een voortdurende nacht
+    ὥστε + inf: zodat
+    μήτ᾽ ... μήτ᾽: noch ... noch
+    ἐμὲ: mij (acc)
+
+"Jij leeft in een voortdurende nacht, zodat jij noch mij, "
+-----
+μήτ᾽ ἄλλον, ὅστις φῶς ὁρᾷ, βλάψαι ποτ᾽ ἄν.
+
+    ἄλλον: een ander (m ev acc)
+    ὅστις: die (m ev nom)
+    φῶς: licht (o ev acc)
+    ὁρᾷ: hij ziet (prs. act. 3 ev)
+    βλάψαι: tegenhouden (aor. inf. act.) [inf. + ἄν, irrealis]
+    ποτ᾽: ooit
+
+"noch een ander, die het licht ziet, ooit tegen zal houden. "
+-----
+οὐ γάρ σε μοῖρα πρός γ᾽ ἐμοῦ πεσεῖν, ἐπεὶ
+
+    οὐ: niet
+    γάρ: want
+    σε: u (acc)
+    μοῖρα: het lot (v ev acc)
+    (+ ἐστι): het is (prs. act. 3 ev)
+    πρός + gen: van
+    ἐμοῦ: van mij (gen)
+    πεσεῖν: te zullen vallen (fut. inf. act.)
+    ἐπεὶ: omdat
+
+"Want het is niet het lot dat u van (/door) mij zal vallen, omdat"
+-----
+ἱκανὸς Ἀπόλλων, ᾧ τάδ᾽ ἐκπρᾶξαι μέλει.
+
+    ἱκανὸς (+ ἐστι): in staat is
+    Ἀπόλλων: Apollo (m ev nom)
+    ᾧ: aan wie (m ev dat)
+    τάδ᾽: deze dingen (o mv acc)
+    ἐκπρᾶξαι: ten uitvoer te brengen (aor. inf. act.)
+    μέλει: het gaat .. ter harte
+
+"Apollo in staat is, aan wie het ter harte gaat deze dingen ten uitvoer te brengen. "

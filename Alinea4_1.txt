@@ -1,0 +1,113 @@
+RUZIE
+-----
+οὐκ, ὦ κακῶν κάκιστε, καὶ γὰρ ἂν πέτρου
+
+    οὐκ: niet
+    κακῶν: van slechten (m ev gen)
+    κάκιστε: slechtste (m ev voc)
+    καὶ γὰρ: want zelfs
+    πέτρου φύσιν: een steen
+
+"O slechtste der slechten, want zelfs een steen"
+-----
+φύσιν σύ γ᾽ ὀργάνειας, ἐξερεῖς ποτε,
+
+    σύ: jij
+    ὀργάνειας: jij zou razend maken (aor. opt. act. 2 ev)
+    ἐξερεῖς: jij zal een duidelijke uitspraak doen (fut. act. 2 ev)
+    ποτε: eens
+
+"zou jij razend maken, zal jij niet eens een duidelijke uitspraak doen, "
+-----
+ἀλλ᾽ ὧδ᾽ ἄτεγκτος κἀτελεύτητος φανεῖ;
+
+    ἀλλ᾽: maar
+    ὧδ᾽: zo
+    ἄτεγκτος: onvermurwbaar
+    κἀτελεύτητος: onhandelbaar
+    φανῃ: jij zal je tonen (fut. med. 2 ev)
+
+"maar zal je je zo onvermurwbaar en onhandelbaar tonen? "
+-----
+ὀργὴν ἐμέμψω τὴν ἐμήν, τὴν σὴν δ᾽ ὁμοῦ
+
+    ὀργὴν τὴν ἐμήν: mijn woede (v ev acc)
+    ἐμέμψω + acc: u bekritiseerde (aor. med. 2 ev)
+    τὴν σὴν (+ ὀργὴν): uw woede (v ev acc)
+    δ᾽: en
+    ὁμοῦ: samen met u
+
+"Mijn woede bekritiseerde u, en uw woede, "
+-----
+ναίουσαν οὐ κατεῖδες, ἀλλ᾽ ἐμὲ ψέγεις.
+
+    ναίουσαν: die woont (prs. ptc. act. v ev acc)
+    οὐ: niet
+    κατεῖδες: u bemerkte (aor. act. 2 ev)
+    ἀλλ᾽: maar
+    ἐμὲ: mij (acc)
+    ψέγεις: u heeft kritiek op (prs. act. 2 ev)
+
+"die samen met u woont, bemerkte u niet, maar u heeft kritiek op mij. "
+-----
+τίς γὰρ τοιαῦτ᾽ ἂν οὐκ ἂν ὀργίζοιτ᾽ ἔπη
+
+    τίς: wie (m ev nom)
+    γὰρ: want
+    οὐκ: niet
+    ὀργίζοιτ᾽: hij zou boos worden (prs. opt. med. 3 ev)
+    τοιαῦτ᾽ ἔπη: zulke woorden (o mv acc)
+
+"want wie zou niet boos worden, zulke woorden "
+-----
+κλύων, ἃ νῦν σὺ τήνδ᾽ ἀτιμάζεις πόλιν;
+
+    κλύων: horend (prs. ptc. act. m ev nom)
+    ἃ: waarmee
+    νῦν: nu
+    σὺ: jij
+    ἀτιμάζεις: jij beledigt (prs. act. 2 ev)
+    τήνδ᾽ πόλιν: deze stad (v ev acc)
+
+"horend, waarmee jij nu deze stad beledigt?"
+-----
+ἥξει γὰρ αὐτά, κἂν ἐγὼ σιγῇ στέγω.
+
+    ἥξει: (de gebeurtenissen) zullen komen (fut. act. 3 ev)
+    γὰρ: ik zeg niets, want
+    αὐτά: vanzelf
+    κἂν (= και εἰ ἀν): ook als
+    ἐγὼ: ik
+    σιγῇ στέγω: ik hul me in stilzwijgen (prs. act. 1 ev)
+
+"Ik zeg niets, want de gebeurtenissen zullen vanzelf komen, ook als ik me in stilzwijgen hul. "
+-----
+οὐκοῦν ἅ γ᾽ ἥξει καὶ σὲ χρὴ λέγειν ἐμοί;
+
+    οὐκοῦν: dan niet
+    ἅ γ᾽ ἥξει: de gebeurtenissen, als die toch al komen
+    καὶ σὲ: jij van jouw kant
+    χρὴ: het is nodig
+    λέγειν: zeggen (prs. inf.)
+    ἐμοί: tegen mij (dat)
+
+"Is het dan niet nodig dat jij van jouw kant de gebeurtenissen, als die toch al komen, tegen mij te zegt?"
+-----
+οὐκ ἂν πέρα φράσαιμι. πρὸς τάδ᾽, εἰ θέλεις,
+
+    οὐκ ἂν + opt: ik denk er niet aan te
+    πέρα: verder
+    φράσαιμι: ik vertel (aor. opt. act. 1 ev)
+    πρὸς τάδ᾽: hiertegen
+    εἰ: als
+    θέλεις: u wilt (prs. act. 2 ev)
+
+"Ik denk er niet aan verder te vertellen. Als u wilt, "
+-----
+θυμοῦ δι᾽ ὀργῆς ἥτις ἀγριωτάτη.
+
+    θυμοῦ: wees woedend (prs. med. imper. ev)
+    δι᾽ ὀργῆς ἥτις: met een woede die
+    ἀγριωτάτη: zeer woest
+
+"wees woedend met een woede die zeer woest (is). "

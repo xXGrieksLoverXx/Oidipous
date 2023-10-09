@@ -1,0 +1,114 @@
+ONWILLIGHEID VAN TEIRESIAS
+-----
+Τειρεσίας:
+-----
+φεῦ φεῦ, φρονεῖν ὡς δεινὸν ἔνθα μὴ τέλη
+
+    φεῦ φεῦ: ach ach
+    φρονεῖν: inzicht hebben (prs. inf.)
+    ὡς: hoe
+    δεινὸν (ἐστιν): het is (prs. 3 ev) verschrikkelijk
+    ἔνθα: waar
+    μὴ: geen
+
+"Ach ach, hoe verschrikkelijk is het inzicht te hebben, waar "
+-----
+λύῃ φρονοῦντι: ταῦτα γὰρ καλῶς ἐγὼ
+
+    τέλη λύῃ: het levert voordeel op
+    φρονοῦντι: voor de wetende (prs. ptc. act. m ev dat)
+    ταῦτα: die dingen (o mv acc)
+    γὰρ: want
+    καλῶς: goed (bijw)
+    ἐγὼ: ik
+
+"het geen voordeel oplevert voor de wetende: want ik, "
+-----
+εἰδὼς διώλεσ᾽: οὐ γὰρ ἂν δεῦρ᾽ ἱκόμην.
+
+    εἰδὼς: terwijl ik weet (perf. ptc. act. m ev nom)
+    διώλεσ᾽: ik was vergeten (aor. act. 1 ev)
+    οὐ: niet
+    γὰρ: want anders
+    δεῦρ᾽: hierheen
+    ἂν (ἀφ)ἱκόμην: ik zou gekomen zijn (aor. med. 1 ev) [ἂν = irrealis]
+
+"terwijl ik die dingen goed weet, was ze vergeten: want anders zou ik niet hierheen gekomen zijn. "
+-----
+Οἰδίπους:
+-----
+τί δ᾽ ἔστιν; ὡς ἄθυμος εἰσελήλυθας.
+
+    τί: wat
+    δ᾽: maar
+    ἔστιν: er is (prs. 3 ev)
+    ὡς: hoe
+    ἄθυμος: moedeloos
+    εἰσελήλυθας: jij bent gekomen (perf. act. 2 ev)
+
+"Maar wat is er? Hoe moedeloos ben jij (hier) gekomen. "
+-----
+ἄφες μ᾽ ἐς οἴκους: ῥᾷστα γὰρ τὸ σόν τε σὺ
+
+    ἄφες: laat gaan (aor. imper. ev) [van ἱημι]
+    μ᾽: mij (acc)
+    ἐς + acc: naar
+    οἴκους: huis (m mv(=ev) acc)
+    ῥᾷστα: zeer gemakkelijk (superl. m ev acc)
+    γὰρ: want
+    τὸ σόν: uw lot
+    σὺ (+ διοισεις): u zal dragen (fut. act. 2 ev)
+
+"Laat mij naar huis gaan: want zeer gemakkelijk zal u uw lot dragen"
+-----
+κἀγὼ διοίσω τοὐμόν, ἢν ἐμοὶ πίθῃ.
+
+    κἀγὼ: en ik
+    διοίσω: ik zal dragen (fut. act. 1 ev)
+    τοὐμόν: mijn eigen (o ev acc)
+    ἢν (= εἰ ἀν): als
+    ἐμοὶ: door mij (dat)
+    πίθῃ: jij bent overtuigd (aor. con. med. 2 ev) [con + ἀν -> futuralis]
+
+"en ik zal mijn eigen (lot) dragen, als jij door mij overtuigd bent. "
+-----
+οὔτ᾽ ἔννομ᾽ εἶπας οὔτε προσφιλῆ πόλει
+
+    οὔτ᾽ ... οὔτε: noch ... noch
+    ἔννομ᾽: wettige dingen (o mv acc)
+    εἶπας: jij zegt (aor. act. 2 ev)
+    προσφιλῆ: welwillende dingen (o mv acc)
+    τῇδ᾽ πόλει: voor deze stad (v ev dat)
+
+"Jij zegt noch wettige dingen, noch welwillende dingen voor deze stad, "
+-----
+τῇδ᾽, ἥ σ᾽ ἔθρεψε, τήνδ᾽ ἀποστερῶν φάτιν.
+
+    ἥ: die (v ev nom)
+    σ᾽: jou (acc)
+    ἔθρεψε: het bracht groot (aor. prs. 3 ev)
+    ἀποστερῶν: omdat jij weigert (prs. ptc. act. m ev nom)
+    τήνδ᾽ φάτιν: dit orakel (v ev acc)
+
+"die jou grootgebracht heeft, omdat jij dit orakel weigert. "
+-----
+ὁρῶ γὰρ οὐδὲ σοὶ τὸ σὸν φώνημ᾽ ἰὸν
+
+    ὁρῶ: ik zie (prs. act. 1 ev)
+    γὰρ: ik zeg niets, want
+    οὐδὲ: ook niet
+    σοὶ: voor jou
+    τὸ σὸν φώνημ᾽: jouw uitspraak (o ev acc)
+    ἰὸν πρὸς καιρόν: aan een oplossing bijdragend (prs. ptc. act. m ev nom) [ἰὸν, van εἰμι (gaan), AcP]
+
+"Ik zeg niets, want ik zie dat jouw uitspraak ook voor jou niet aan een oplossing bijdraagt: "
+-----
+πρὸς καιρόν: ὡς οὖν μηδ᾽ ἐγὼ ταὐτὸν πάθω-
+
+    ὡς + con: opdat
+    οὖν: dus
+    μηδ᾽: ook niet
+    ταὐτὸν: hetzelfde (o ev acc)
+    πάθω: ik onderga (aor. con. act. 1 ev)
+
+"opdat ik dus ook niet hetzelfde onderga. "

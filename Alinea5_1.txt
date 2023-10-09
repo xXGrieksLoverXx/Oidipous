@@ -1,0 +1,128 @@
+ESCALATIE
+-----
+οὕτως ἀναιδῶς ἐξεκίνησας τόδε
+
+    οὕτως: zo
+    ἀναιδῶς: schaamteloos (bijw.)
+    ἐξεκίνησας: jij hebt uitgeslagen (aor. act. 2 ev)
+    τόδε τὸ ῥῆμα: deze woorden (o ev acc)
+
+"Heb jij zo schaamteloos deze woorden uitgeslagen? "
+-----
+τὸ ῥῆμα; καὶ ποῦ τοῦτο φεύξεσθαι δοκεῖς;
+
+    καὶ: en
+    ποῦ: hoe
+    τοῦτο: dit (o ev acc)
+    φεύξεσθαι: te ontvluchten (inf. aor.)
+    δοκεῖς: jij meent (prs. act. 2 ev)
+
+"En hoe meen jij dit te ontvluchten? "
+-----
+πέφευγα: τἀληθὲς γὰρ ἰσχῦον τρέφω.
+
+    πέφευγα: ik ben al gevlucht (perf. act. 1 ev)
+    τἀληθὲς: de waarheid (o ev acc)
+    γὰρ: want
+    ἰσχῦον: sterk zijnde (prs. ptc. act. o ev acc)
+    τρέφω: ik heb in me (prs. act. 1 ev)
+
+"Ik ben al gevlucht: want ik heb de waarheid in me, die sterk is. "
+-----
+πρὸς τοῦ διδαχθείς; οὐ γὰρ ἔκ γε τῆς τέχνης.
+
+    πρὸς + gen: van
+    τοῦ (= τινος): van wie (m/v ev gen)
+    διδαχθείς: nadat jij geleerd hebt (aor. ptc. pass m ev nom)
+    οὐ: niet
+    γὰρ: want
+    ἔκ + gen: uit
+    τῆς τέχνης: van je vaardigheid
+
+"Nadat jij die van wie geleerd hebt? Want niet vanuit je vaardigheid. "
+
+-----
+πρὸς σοῦ: σὺ γάρ μ᾽ ἄκοντα προυτρέψω λέγειν.
+
+    πρὸς + gen: van
+    σοῦ: u (gen)
+    σὺ: u (nom)
+    γάρ: want
+    μ᾽: mij (acc)
+    ἄκοντα: onvrijwillig (m ev acc)
+    προυτρέψω: u bracht .. ertoe .. (aor. con.(?) med. 2 ev)
+    λέγειν: te praten (prs. inf.)
+
+"Van u: want u bracht mij onvrijwillig ertoe te praten. "
+-----
+ποῖον λόγον; λέγ᾽ αὖθις, ὡς μᾶλλον μάθω.
+
+    ποῖον λόγον: wat voor woord (m ev acc)
+    λέγ᾽: zeg (prs. imper. ev)
+    αὖθις: opnieuw
+    ὡς + con: opdat
+    μᾶλλον: beter (comp. bijw.) [Onregelmatige comparativus van μαλα]
+    μάθω: ik leer (aor. con. act. 1 ev)
+
+"Wat voor woord (zei je)? Zeg opnieuw, opdat ik beter leer. "
+-----
+οὐχὶ ξυνῆκας πρόσθεν; ἢ 'κπειρᾷ λεγειν;
+
+    οὐχὶ: niet
+    ξυνῆκας: jij begreep (aor. act. 2 ev)
+    πρόσθεν: eerder
+    ἢ: of
+    'κπειρᾷ λεγειν: u probeert aan het praten te krijgen (prs. med. 2 ev) (prs. inf. act.)
+
+"Jij begreep (het) eerder niet? Of probeert u (mij) aan het praten te krijgen? "
+-----
+οὐχ ὥστε γ᾽ εἰπεῖν γνωστόν: ἀλλ᾽ αὖθις φράσον.
+
+    οὐχ ὥστε γ᾽ εἰπεῖν γνωστόν: niet zo heb ik begrepen dat ik kan zeggen dat het begrijpelijk is
+    ἀλλ᾽: maar
+    αὖθις: opnieuw
+    φράσον: vertel (aor. imper. act. ev)
+
+"Niet zo heb ik begrepen dat ik kan zeggen dat het begrijpelijk is: maar vertel opnieuw. "
+-----
+φονέα σε φημὶ τἀνδρὸς οὗ ζητεῖς κυρεῖν.
+
+    φονέα: moordenaar (m ev acc)
+    σε: u (acc) [A van AcI]
+    φημὶ: ik zeg (prs. act. 1 ev) [AcI]
+    τἀνδρὸς: van de man (m ev gen)
+    οὗ: van wie (m ev gen)
+    ζητεῖς: u zoekt (prs. act. 2 ev)
+    κυρεῖν (= εἰναι): te zijn (prs. inf.) [I van AcI]
+
+"Ik zeg dat u de moordenaar van de man van wie u de moordenaar zoekt bent. "
+-----
+ἀλλ᾽ οὔ τι χαίρων δίς γε πημονὰς ἐρεῖς.
+
+    ἀλλ᾽: maar
+    οὔ τι χαίρων: niet straffeloos
+    δίς: tweemaal
+    πημονὰς: kwetsende woorden (v mv acc)
+    ἐρεῖς: jij zal zeggen (fut. act. 2 ev) [Raar futurum atticum van λεγω]
+
+"Maar jij zal niet straffeloos tweemaal kwetsende woorden zeggen. "
+-----
+εἴπω τι δῆτα κἄλλ᾽, ἵν᾽ ὀργίζῃ πλέον;
+
+    εἴπω δῆτα: moet ik dan .. zeggen
+    τι κἄλλ᾽ (= και ἀλλο): ook iets anders (o ev acc)
+    ἵν᾽ + con: opdat
+    ὀργίζῃ: u wordt boos (prs. con. pass. 2 ev)
+    πλέον: meer
+
+"Moet ik dan ook iets anders zeggen, opdat u nog bozer wordt? "
+-----
+ὅσον γε χρῄζεις: ὡς μάτην εἰρήσεται.
+
+    ὅσον: zo veel als (bijw.)
+    χρῄζεις: jij hebt behoefte aan (prs. act. 2 ev)
+    ὡς: want
+    μάτην: tevergeefs
+    εἰρήσεται: het zal gezegd zijn
+
+"Zo veel als je behoefte aan hebt: want het zal tevergeefs gezegd zijn. "

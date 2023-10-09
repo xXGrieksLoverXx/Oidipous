@@ -1,0 +1,86 @@
+καὶ μὴν παρήσω γ᾽ οὐδέν, ὡς ὀργῆς ἔχω,
+
+    καὶ μὴν γ᾽: jazeker
+    παρήσω: ik zal onuitgesproken laten (fut. act. 1 ev)
+    οὐδέν: niets
+    ὡς ὀργῆς ἔχω: woedend als ik ben
+
+"Jazeker, woedend als ik ben zal ik niets onuitgesproken laten "
+-----
+ἅπερ ξυνίημ᾽. ἴσθι γὰρ δοκῶν ἐμοὶ
+
+    (τουτων) ἅπερ: van datgene dat (o mv nom/acc)
+    ξυνίημ᾽: ik begrijp (athem. prs. act. 1 ev)
+    ἴσθι δοκῶν: weet dat je de indruk maakt
+    γὰρ: want
+    ἐμοὶ: voor mij (dat)
+
+"van datgene dat ik begrijp. want weet dat je voor mij de indruk maakt "
+-----
+καὶ ξυμφυτεῦσαι τοὔργον εἰργάσθαι θ᾽, ὅσον
+
+    καὶ: eigenlijk
+    ξυμφυτεῦσαι: te helpen beramen (aor. act. inf.)
+    τοὔργον (= το ἐργον): de daad (o ev acc)
+    εἰργάσθαι: te verrichten (perf. med. inf.)
+    θ᾽: en
+
+"eigenlijk te hebben geholpen de daad te beramen en te verrichten, "
+-----
+μὴ χερσὶ καίνων: εἰ δ᾽ ἐτύγχανες βλέπων,
+
+    ὅσον μὴ χερσὶ καίνων: behalve dat je hem niet eigenhandig hebt gedood
+    εἰ: als
+    δ᾽: maar
+    ἐτύγχανες + ptc: toevallig ...
+    βλέπων: kijkende (prs. ptc. act. m ev nom)
+
+"behalve dat je hem niet eigenhandig hebt gedood: maar als ik toevallig kijk, "
+-----
+καὶ τοὔργον ἂν σοῦ τοῦτ᾽, ἔφην εἶναι μόνου.
+
+    καὶ: ook
+    τοῦτ᾽ τοὔργον (= το ἐργον): die daad (o ev acc)
+    σοῦ: van jou (gen)
+    ἔφην: ik zou zeggen (prs. impf. act. 1 ev)
+    εἶναι: te zijn (prs. inf.)
+    μόνου: alleen (m ev gen)
+
+"zou ik ook zeggen dat die daad van jou alleen was. "
+-----
+ἄληθες; ἐννέπω σὲ τῷ κηρύγματι
+
+    ἄληθες; : echt waar?
+    ἐννέπω: ik zeg (prs. act. 1 ev)
+    σὲ: u (acc)
+    τῷ κηρύγματι: de proclamatie (o ev dat)
+
+"Echt waar? Ik zeg u "
+-----
+ᾧπερ προεῖπας ἐμμένειν, κἀφ᾽ ἡμέρας
+
+    ᾧπερ (= ἐκεινῳ ὁπερ): datgene dat
+    προεῖπας: jij maakte openlijk bekend (aor. act. 2 ev)
+    ἐμμένειν + dat: zich te houden aan (prs. inf.)
+    κἀφ᾽ (= και ἀπο + gen): en vanaf
+    τῆς ἡμέρας: de dag nu -> vandaag (v ev gen)
+
+"zich te houden aan de proclamatie, datgene dat jij openlijk bekend maakte en vanaf vandaag "
+-----
+τῆς νῦν προσαυδᾶν μήτε τούσδε μήτ᾽ ἐμέ,
+
+    προσαυδᾶν: toe te spreken (prs. inf.) [AcI]
+    μήτε ... μήτ᾽: noch ... noch
+    τούσδε: deze (m mv acc)
+    ἐμέ: mij (acc)
+
+"noch deze (mensen), noch mij toe te spreken, "
+-----
+ὡς ὄντι γῆς τῆσδ᾽ ἀνοσίῳ μιάστορι.
+
+    ὡς + ptc: omdat
+    ὄντι: jij bent (prs. ptc. m ev dat)
+    τῆσδ᾽ γῆς: dit gebied (v ev gen)
+    ἀνοσίῳ μιάστορι: goddeloze besmetter (m ev dat)
+
+"omdat jij de goddeloze besmetter van dit gebied bent. "

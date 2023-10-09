@@ -1,0 +1,101 @@
+-----
+Οἰδίπους:
+-----
+ὦ πάντα νωμῶν Τειρεσία, διδακτά τε
+
+    ὦ: O [Aanhef]
+    πάντα: alles (o mv acc)
+    νωμῶν: die weet (prs. act. ptc. m ev nom)
+    Τειρεσία: Teiresias (voc)
+    διδακτά: wat verteld mag worden (o mv acc)
+    τε: en (τε na een woord is hetzelfde als καὶ ervoor)
+    καὶ ... καὶ: zowel ... als
+
+"O Teiresias die alles weet, zowel wat verteld mag worden, "
+-----
+ἄρρητά τ᾽, οὐράνιά τε καὶ χθονοστιβῆ,
+
+    ἄρρητά: wat niet gezegd mag worden (o mv acc)
+    οὐράνιά: hemels (o mv acc)
+    χθονοστιβῆ: aards (o mv acc)
+
+"als wat niet gezegd mag worden, zowel hemels als aards, "
+-----
+πόλιν μέν, εἰ καὶ μὴ βλέπεις, φρονεῖς δ᾽ ὅμως
+
+    πόλιν: wat de stad betreft (v ev acc)
+    εἰ καὶ: ook al
+    μὴ: niet
+    βλέπεις: jij ziet (prs. act. 2 ev)
+    φρονεῖς: jij weet (prs. act. 2 ev)
+    ὅμως: toch
+
+"wat de stad betreft, ook al zie jij niet, weet je toch "
+-----
+οἵᾳ νόσῳ σύνεστιν: ἧς σὲ προστάτην
+
+    οἵᾳ: wat voor een (v ev dat)
+    νόσῳ: ziekte (v ev dat)
+    σύνεστιν: zij lijdt (prs. 3 ev)
+    ἧς: hiertegen
+    σὲ: u (acc)
+    προστάτην: beschermer (m ev acc)
+
+"wat voor een ziekte zij lijdt, hiertegen "
+-----
+σωτῆρά τ᾽, ὦναξ, μοῦνον ἐξευρίσκομεν.
+
+    σωτῆρά: redder (m ev acc)
+    ὦ-ἄναξ: heer (m ev voc?)
+    μοῦνον: alleen (m ev acc)
+    ἐξευρίσκομεν: wij vinden (prs. act. 1 mv)
+
+"vinden wij alleen u, heer, als beschermer en redder. "
+-----
+Φοῖβος γάρ, εἴ καὶ μὴ κλύεις τῶν ἀγγέλων,
+
+    Φοῖβος: Apollo
+    γάρ: want
+    εἴ καὶ μὴ: als werkelijk niet / ook al niet
+    κλύεις: jij hebt gehoord (prs. act. 2 ev) [Praesens historicum]
+    τῶν ἀγγέλων: van de bodes (m mv gen)
+
+"Want Apollo, ook al heb je het niet gehoord van de bodes, "
+-----
+πέμψασιν ἡμῖν ἀντέπεμψεν, ἔκλυσιν
+
+    πέμψασιν: nadat wij [orakelvragers] hadden gestuurd (aor. part. act. m mv dat)
+    ἡμῖν: naar ons (dat)
+    ἀντέπεμψεν: hij stuurde als antwoord (aor. act. 3 ev)
+    ἔκλυσιν + gen: verlossing van (v ev acc)
+
+"stuurde naar ons, nadat wij orakelvragers hadden gestuurd, als antwoord dat [AcI]"
+-----
+μόνην ἂν ἐλθεῖν τοῦδε τοῦ νοσήματος,
+
+    μόνην: enige (v ev acc)
+    ἂν ἐλθεῖν: zal komen (aor. inf.) [ἂν bij prs/aor.inf. -> vertalen als potentialis]
+    τοῦδε: deze (o ev gen)
+    τοῦ νοσήματος: ziekte (o ev gen)
+
+"de enige verlossing van deze ziekte zal komen, "
+-----
+εἰ τοὺς κτανόντας Λάϊον μαθόντες εὖ
+
+    εἰ: als
+    τοὺς κτανόντας: de moordenaars (zelfst. aor. part. act. m mv acc)
+    Λάϊον: van (?) Laios (m ev acc) [Hoort op de een of andere manier bij τοὺς κτανόντας]
+    μαθόντες: nadat we opsporen (aor. part. act. m mv nom)
+    εὖ: goed
+
+"als wij, nadat we de moordenaars van Laion goed opsporen, "
+-----
+κτείναιμεν ἢ γῆς φυγάδας ἐκπεμψαίμεθα.
+
+    κτείναιμεν: wij doden (aor. act. opt.(?) 1 mv)
+    ἢ: of
+    γῆς: ons land (v ev gen)
+    φυγάδας: als ballingen (m mv acc)
+    ἐκπεμψαίμεθα + gen: wij zenden weg uit (aor. med. opt.(?) 1 mv)
+
+"hen doden of uit ons land wegzenden als ballingen. "

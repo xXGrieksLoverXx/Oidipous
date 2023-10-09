@@ -1,0 +1,84 @@
+μὴ πρὸς θεῶν φρονῶν γ᾽ ἀποστραφῇς, ἐπεὶ
+
+    μὴ: niet
+    πρὸς + gen: bij
+    θεῶν: goden (m mv gen)
+    φρονῶν: terwijl jij weet (prs. ptc. m ev nom)
+    ἀποστραφῇς: jij wendde je af (aor. opt. act. 2 ev) [con -> verbod]
+    ἐπεὶ: omdat
+
+"Bij de goden, wend je niet af terwijl je weet, omdat "
+-----
+πάντες σε προσκυνοῦμεν οἵδ᾽ ἱκτήριοι.
+
+    πάντες: allen (m mv nom)
+    σε: u (acc)
+    προσκυνοῦμεν: wij vallen op onze knieën (prs. act. 1 mv)
+    οἵδ᾽: hier
+    ἱκτήριοι: smekend
+
+"wij allen hier smekend op onze knieën vallen voor u. "
+-----
+πάντες γὰρ οὐ φρονεῖτ᾽: ἐγὼ δ᾽ οὐ μή ποτε
+
+    πάντες: allen (m mv nom)
+    γὰρ: want
+    οὐ: niet
+    φρονεῖτ᾽: jullie weten (prs. act. 2 mv)
+    ἐγὼ: ik
+    δ᾽: en
+    οὐ μή + con: beslist niet
+    ποτε: ooit
+
+"Want jullie allen weten niet: en ik "
+-----
+τἄμ᾽, ὡς ἂν εἴπω μὴ τὰ σ᾽, ἐκφήνω κακά.
+
+    τἄμ᾽ ὡς ἂν εἴπω μὴ τὰ σ᾽ κακά: mijn ellende, om niet te zeggen de uwe
+    ἐκφήνω: ik onthul (aor. con. act. 1 ev)
+
+"onthul beslist niet ooit mijn ellende, om niet te zeggen de uwe. "
+-----
+τί φής; ξυνειδὼς οὐ φράσεις, ἀλλ᾽ ἐννοεῖς
+
+    τί: wat
+    φής: jij zegt (prs. act. 2 ev)
+    ξυνειδὼς: terwijl jij weet (aor. ptc. act. m ev nom)
+    οὐ: niet
+    φράσεις: jij zal bekend maken (fut. act. 2 ev)
+    ἀλλ᾽: maar
+    ἐννοεῖς: jij bent van plan (prs. act. 2 ev)
+
+"Wat zeg je? Hoewel jij weet, zal je het niet bekend maken, maar jij bent van plan "
+-----
+ἡμᾶς προδοῦναι καὶ καταφθεῖραι πόλιν;
+
+    ἡμᾶς: ons (acc)
+    προδοῦναι: te verraden (aor. inf.)
+    καὶ: en
+    καταφθεῖραι: te gronde te richten (aor. inf.)
+    πόλιν: de stad (v ev acc)
+
+"ons te verraden en de stad ten gronde te richten? "
+-----
+ἐγὼ οὔτ᾽ ἐμαυτὸν οὔτε σ᾽ ἀλγυνῶ. τί ταῦτ᾽
+
+    ἐγὼ: ik
+    οὔτ᾽ ... οὔτε: noch ... noch
+    ἐμαυτὸν: mezelf (acc)
+    σ᾽: u (acc)
+    ἀλγυνῶ: ik zal pijn doen (fut. act. 1 ev)
+    τί: Waarom
+    ταῦτ᾽: die dingen
+
+"Ik zal noch mezelf, noch u pijn doen. Waarom "
+-----
+ἄλλως ἐλέγχεις; οὐ γὰρ ἂν πύθοιό μου.
+
+    ἄλλως: tevergeefs
+    ἐλέγχεις: jij vraagt (prs. act. 2 ev)
+    οὐ γὰρ ἂν + opt: want er is geen kans dat
+    πύθοιό: jij zal vernemen (aor. opt. med. 2 ev)
+    μου: van mij (gen)
+
+"vraag jij die dingen tevergeefs? Want er is geen kans dat jij (dat) van mij zal vernemen. "
